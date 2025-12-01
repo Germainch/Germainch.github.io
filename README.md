@@ -1,5 +1,9 @@
 ## Smart Training System for Pool Players
 
+
+![presentation](./billard.webp)
+
+![presentation](./packaging.png)
 ---
 
 ## Vision
