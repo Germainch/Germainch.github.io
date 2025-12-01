@@ -1,4 +1,3 @@
-# B.I.A.R
 ## Smart Training System for Pool Players
 
 ---
