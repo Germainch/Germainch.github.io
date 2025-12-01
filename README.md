@@ -84,23 +84,6 @@ Visual guidance projected directly onto the table shows:
 
 ---
 
-## Technology Stack
-
-### Hardware
-- High-resolution overhead camera (4K+)
-- Short-throw projector or laser projector
-- Edge computing device (for low-latency processing)
-- Structured lighting (optional, for improved detection)
-
-### Software
-- Computer vision (OpenCV, custom ball detection)
-- Physics engine for trajectory simulation
-- Training exercise database
-- Player progress tracking system
-- Web interface for configuration and analytics
-
----
-
 ## Exercise Examples
 
 ### Straight-In Shots Drill
@@ -120,23 +103,6 @@ Visual guidance projected directly onto the table shows:
 - Multiple solution paths shown on demand
 - Helps develop strategic thinking
 - Competitive timing mode available
-
----
-
-## User Experience
-
-### Setup Process
-1. Player selects exercise from tablet/touch interface
-2. System projects ball placement guides on table
-3. Player arranges balls to match projection
-4. System confirms setup and begins drill
-5. Real-time feedback during execution
-
-### Visual Interface
-- Subtle, non-intrusive projection design
-- Color-coded difficulty indicators
-- Adjustable guidance intensity
-- Toggle on/off during shots
 
 ---
 
